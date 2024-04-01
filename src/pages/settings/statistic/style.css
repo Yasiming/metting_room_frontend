@@ -1,0 +1,10 @@
+#statistics {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+}
+#statistics .statistics-chart {
+  width: 400px;
+  height: 400px;
+}
